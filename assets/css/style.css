@@ -410,3 +410,7 @@
 .grid-img:hover .grid-imghover {
     opacity: 100% !important;
 }
+
+.left-0 {
+    left: 0;
+}
